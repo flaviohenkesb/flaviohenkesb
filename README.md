@@ -3,7 +3,10 @@
 * 👨‍💻 Tecnólogo em Sistemas para Internet;
 * :elephant: Desenvolvedor Web Back-End.
 
-[![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb)](https://github.com/flaviohenkesb/github-readme-stats)
+<p>
+  [![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark)](https://github.com/flaviohenkesb/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviohenkesb&show_icons=true&locale=en&layout=compact" alt="flaviohenkesb" />
+</p>
 
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
@@ -16,7 +19,6 @@
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviohenkesb&label=Profile%20views&color=0e75b6&style=flat" alt="flaviohenkesb" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviohenkesb&show_icons=true&locale=en&layout=compact" alt="flaviohenkesb" /></p>
 <!--
 **flaviohenkesb/flaviohenkesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
