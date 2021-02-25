@@ -22,7 +22,7 @@
         <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="mysql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://cdn1.iconfinder.com/data/icons/social-icon-2-1/512/social_style_2_html5-512.png" alt="html5" width="40" height="40"/>
