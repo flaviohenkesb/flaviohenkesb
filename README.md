@@ -3,7 +3,7 @@
 * 👨‍💻 Tecnólogo em Sistemas para Internet;
 * :elephant: Desenvolvedor Web Back-End.
 
-[![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark)](https://github.com/flaviohenkesb/github-readme-stats)
+[![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&layout=compact&theme=dark)](https://github.com/flaviohenkesb/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true)](https://github.com/flaviohenkesb)
 
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
