@@ -1,7 +1,9 @@
 ## Olá 👋
 
-## 👨‍💻 Tecnólogo em Sistemas para Internet;
-## Desenvolvedor Web Back-End.
+* 👨‍💻 Tecnólogo em Sistemas para Internet;
+* :elephant: Desenvolvedor Web Back-End.
+
+[![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb)](https://github.com/flaviohenkesb/github-readme-stats)
 
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
