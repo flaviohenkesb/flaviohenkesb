@@ -1,8 +1,8 @@
 ## Olá 👋
 
-* 👨‍💻 Tecnólogo em Sistemas para Internet;
-* :elephant: Desenvolvedor Web Back-End.
-
+👨‍💻 Tecnólogo em Sistemas para Internet;
+:elephant: Desenvolvedor Web Back-End.
+<br/>
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
 </a>
@@ -12,6 +12,12 @@
 <a target="_blank" href="mailto:flaviohenkes@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />
 </a>
+<br/>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/>
 <hr></hr>
 
