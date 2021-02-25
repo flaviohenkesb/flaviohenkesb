@@ -3,8 +3,6 @@
 * 👨‍💻 Tecnólogo em Sistemas para Internet;
 * :elephant: Desenvolvedor Web Back-End.
 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/868c16546bc5c2d8383c62202b4733cf24e4b9be8c016a877a80eb42d17e6452/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6564736f6e6a756e696f726e6172766165732e6564736f6e6a756e696f726e61727661657329"><img align="center" src="https://camo.githubusercontent.com/868c16546bc5c2d8383c62202b4733cf24e4b9be8c016a877a80eb42d17e6452/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6564736f6e6a756e696f726e6172766165732e6564736f6e6a756e696f726e61727661657329" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes)" style="max-width:100%;"></a>
-
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
 </a>
