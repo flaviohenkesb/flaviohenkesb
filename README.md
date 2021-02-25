@@ -4,9 +4,7 @@
 * :elephant: Desenvolvedor Web Back-End.
 
 [![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark)](https://github.com/flaviohenkesb/github-readme-stats)
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviohenkesb&show_icons=true&locale=en&layout=compact" alt="flaviohenkesb" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true)](https://github.com/flaviohenkesb)
 
 <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
