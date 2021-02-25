@@ -13,7 +13,6 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />
 </a>
 <br/>
-<hr></hr>
 
 [![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br)](https://github.com/flaviohenkesb/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true&locale=pt-br)](https://github.com/flaviohenkesb)
