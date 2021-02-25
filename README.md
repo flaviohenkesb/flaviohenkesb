@@ -3,8 +3,8 @@
 * 👨‍💻 Tecnólogo em Sistemas para Internet;
 * :elephant: Desenvolvedor Web Back-End.
 
+[![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark)](https://github.com/flaviohenkesb/github-readme-stats)
 <p>
-  [![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark)](https://github.com/flaviohenkesb/github-readme-stats)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviohenkesb&show_icons=true&locale=en&layout=compact" alt="flaviohenkesb" />
 </p>
 
