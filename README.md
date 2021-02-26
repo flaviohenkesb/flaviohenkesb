@@ -19,9 +19,12 @@
 
 <br/>
 
-[![Flávio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br)](https://github.com/flaviohenkesb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true&locale=pt-br)](https://github.com/flaviohenkesb)
-
+<a href="https://github.com/flaviohenkesb/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br" alt="Flávio's GitHub stats" style="max-height=165px;" />
+</a>
+<a href="https://github.com/flaviohenkesb">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true&locale=pt-br" alt="Top Langs" style="max-height=165px;" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flaviohenkesb&label=Profile%20views&color=0e75b6&style=flat" alt="flaviohenkesb" /> </p>
 <!--
 **flaviohenkesb/flaviohenkesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
