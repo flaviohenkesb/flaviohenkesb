@@ -4,11 +4,7 @@
 <p>:elephant: Desenvolvedor Web Back-End.</p>
 
 <br/>
-<style>
-  .stats{
-    max-height:165px;
-  }
-</style>
+
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
