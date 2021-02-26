@@ -20,7 +20,7 @@
 <br/>
 
 <a href="https://github.com/flaviohenkesb/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br" alt="Flávio's GitHub stats" class="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br" alt="Flávio's GitHub stats" height="165" />
 </a>
 <a href="https://github.com/flaviohenkesb">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true&locale=pt-br" alt="Top Langs" style="max-height=165px;" />
