@@ -4,7 +4,11 @@
 <p>:elephant: Desenvolvedor Web Back-End.</p>
 
 <br/>
-
+<style>
+  .stats{
+    max-height:165px;
+  }
+</style>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/fl%C3%A1vio-henkes-bagestan-a06098ba/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-256.png" />
@@ -20,7 +24,7 @@
 <br/>
 
 <a href="https://github.com/flaviohenkesb/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br" alt="Flávio's GitHub stats" style="max-height=165px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flaviohenkesb&count_private=true&show_icons=true&theme=dark&locale=pt-br" alt="Flávio's GitHub stats" class="stats" />
 </a>
 <a href="https://github.com/flaviohenkesb">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohenkesb&layout=compact&theme=dark&show_icons=true&locale=pt-br" alt="Top Langs" style="max-height=165px;" />
