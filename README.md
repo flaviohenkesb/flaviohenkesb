@@ -15,6 +15,9 @@
   <a target="_blank" href="mailto:flaviohenkes@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />
   </a>
+  <a target="_blank" href="https://echoando.com.br">
+    echoando.com.br
+  </a>
 </p>
 
 <br/>
