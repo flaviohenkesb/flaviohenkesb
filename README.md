@@ -16,7 +16,7 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />
   </a>
   <a  href="https://echoando.com.br" target="_blank">
-    <img align="left" alt="Site" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle-6/1024/circle-10-512.png"/>
+    <img align="left" alt="Site" width="22px" src="https://cdn0.iconfinder.com/data/icons/business-1390/24/02_-_Www-2-256.png"/>
     echoando.com.br
   </a>
 </p>
