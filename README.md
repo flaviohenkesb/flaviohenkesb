@@ -15,12 +15,12 @@
   <a target="_blank" href="mailto:flaviohenkes@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png" />
   </a>
+</p>
+<p>
   <a  href="https://echoando.com.br" target="_blank">
-    <img align="left" alt="Site" width="22px" src="https://cdn0.iconfinder.com/data/icons/business-1390/24/02_-_Www-2-256.png"/>
     echoando.com.br
   </a>
 </p>
-
 <br/>
 
 <a href="https://github.com/flaviohenkesb/github-readme-stats">
