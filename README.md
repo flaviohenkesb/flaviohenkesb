@@ -2,7 +2,7 @@
 
 <p>👨‍💻 Tecnólogo em Sistemas para Internet.</p>
 <p>:elephant: Desenvolvedor Web Back-End.</p>
-<p>> Costumo circular entre código, interface e infraestrutura, cuidando de tudo que existe entre escrever o código e a aplicação estar no ar.</p>
+<p>Costumo circular entre código, interface e infraestrutura, cuidando de tudo que existe entre escrever o código e a aplicação estar no ar.</p>
 
 <br/>
 
